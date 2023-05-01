@@ -4,7 +4,7 @@
 
 <template>
   <div>
-      <a-button>ds</a-button>
+      <a-button>{{ $t('common.title') }}</a-button>
   </div>
 </template>
 

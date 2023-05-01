@@ -7,6 +7,8 @@ export default defineComponent({
 
 <template>
   <router-view />
+
+  {{ $t('common.title') }}
 </template>
 
 <style scoped>
